@@ -1,5 +1,5 @@
 {
-  "name": "convert-imgs-tool",
+  "name": "img-compressor",
   "version": "1.0.0",
   "description": "This is a tool to convert images from jpeg to webp and compress them",
   "scripts": {
