@@ -43,7 +43,7 @@ A simple tool to compress and convert JPEG and PNG images using [sharp](https://
    The script will compress all `.jpg`, `.jpeg`, and `.png` files from the `INPUT` folder and save the compressed versions in the `INPUT/alreadyCompress` folder with 85% quality by default.
 
    ```bash
-    node covert.js
+    node convert.js
     ```
 
    The script will covert all `.jpg`, `.jpeg`, and `.png` files from the `INPUT/alreadyCompress` folder and save the coverted versions in the `OUTPUT/webp` folder.
